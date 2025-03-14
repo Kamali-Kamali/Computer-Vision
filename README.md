@@ -5,9 +5,9 @@ The dataset was created and labeled using Roboflow
 
 #### Dataset 
 data
->images >> train
+>images > train
 
->lables >> train
+>labels > train
 
 #### Class Lables
 0: Butterfly
