@@ -1,0 +1,7 @@
+train: '/content/drive/MyDrive/ColabNotebooks/Butterfly_flower_bird_detection_yolo/data/images/train'
+val: '/content/drive/MyDrive/ColabNotebooks/Butterfly_flower_bird_detection_yolo/data/images/train'
+
+names:
+  0: Butterfly
+  1: Bird
+  2: Flower
