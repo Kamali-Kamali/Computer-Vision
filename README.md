@@ -4,11 +4,9 @@ This repository contains the implementation of a custom object detection model t
 The dataset was created and labeled using Roboflow
 
 #### Dataset 
-data/
-│   ├── images/
-│   │   ├── train/  # Training images
-│   ├── labels/
-│   │   ├── train/
+data
+>images >> train
+>lables >> train
 
 #### Class Lables
 0: Butterfly
